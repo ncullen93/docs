@@ -16,10 +16,17 @@ to follow in order to ensure an ideal user experience on ants.dev.
 
 - in other words, don't use underlines to specify headers or bold-ness
 
+- keep headers as short as possible, ideally 2 - 3 words. Omit unnecessary or redundant
+  information in the header. For example, "Performing segmentation in ANTs" can be shortened
+  to just "Performing segmentation" in a tutorial specifically about ANTs.
+
 - github-flavored markdown is supported so anything that looks good on github should
   look good on ants.dev. If it doesn't, file an issue.
 
 - using R markdown (.Rmd) is OK but they need to be converted to markdown to be useable.
+
+- encourage the use of notes (:::note TEXT HERE :::) and tips (:::tip TEXT HERE :::) to
+  give the articles a little color pop
 
 ## Other notes
 

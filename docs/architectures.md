@@ -8,6 +8,14 @@ Welcome to the documentation for architectures on ants.dev
 x <- mtcars %>% dplyr::filter(hp > 3)
 ```
 
+```r
+x <- mtcars %>% dplyr::filter(hp > 3)
+```
+
+```{r}
+x <- mtcars %>% dplyr::filter(hp > 3)
+```
+
 ## Using architectures on ants.dev
 
 abc
