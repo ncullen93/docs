@@ -30,6 +30,9 @@ to follow in order to ensure an ideal user experience on ants.dev.
 - for code blocks, use three backticks and `r` or `python` to denote languages. The languages
   should not be capitalized.
 
+- use huggingface.co (e.g., https://huggingface.co/docs/transformers/index) for inspiration
+  as to how good package documentation should be.
+
 ## Other notes
 
 - The ants.dev platform pulls from the raw files for the markdown documents, and these

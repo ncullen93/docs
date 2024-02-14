@@ -38,6 +38,12 @@ And this is a note:
 This is an example of a note
 :::
 
+And this is a warning:
+
+:::warning
+This is an example of a warning
+:::
+
 ## Using from Python
 
 def
