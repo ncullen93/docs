@@ -52,7 +52,7 @@ def
 
 ghi
 
-```{r, python}
+```r|python
 x <- 1
 ===
 x = 1
