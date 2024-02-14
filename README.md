@@ -64,7 +64,7 @@ Code tabs are another expression specific to ants.dev. Code tabs let you write t
 in multiple language, but wrapped in a tab where only one snippet is visible at a time. We use these
 to show the same ANTs expression in bash, R, and Python. Code snippets are written like this:
 
-```r,python
+```r|python
 x <- 1
 x <- x + 1
 ===
@@ -72,7 +72,7 @@ x = 1
 ```
 
 As you can see, the first thing to do is write all the languages to be included in the tabs separated
-by a comma. The next thing to do is to separate the language snippets by exactly three equal signs (`===`). This will render correctly in the ants.dev docs. Do not use any brackets around the languages.
+by a vertical line with no spaces. The next thing to do is to separate the language snippets by exactly three equal signs (`===`). This will render correctly in the ants.dev docs. Do not use any brackets around the languages.
 
 ## Other notes
 
