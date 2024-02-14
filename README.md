@@ -25,7 +25,8 @@ to follow in order to ensure an ideal user experience on ants.dev.
 
 - using R markdown (.Rmd) is OK but they need to be converted to markdown to be useable.
 
-- encourage the use of directives such as notes (:::note TEXT HERE :::) and tips (:::tip TEXT HERE :::) to give the articles a little color pop. They wont show up on github but they will look nice on ants.dev/docs.
+- encourage the use of directives such as notes (:::note TEXT HERE :::), tips (:::tip TEXT HERE :::),
+  and warnings (:::warning TEXT HERE :::) to give the articles a little color pop. They wont render on github but they will look nice on ants.dev/docs.
 
 - for code blocks, use three backticks and `r` or `python` to denote languages. The languages
   should not be capitalized.

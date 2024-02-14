@@ -48,6 +48,12 @@ This is an example of a warning
 
 def
 
+`bash tabs='npm|yarn'
+npm i @ui-pack/react
+--
+yarn add @ui-pack/react
+`
+
 ## Contributing architectures
 
 ghi
