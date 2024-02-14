@@ -14,6 +14,11 @@ to follow in order to ensure an ideal user experience on ants.dev.
   is because all two-hashmark headers are displayed in the right sidebar of ants.dev/docs
   to allow users to navigate within articles.
 
+- in other words, don't use underlines to specify headers or bold-ness
+
+- github-flavored markdown is supported so anything that looks good on github should
+  look good on ants.dev. If it doesn't, file an issue.
+
 - using R markdown (.Rmd) is OK but they need to be converted to markdown to be useable.
 
 ## Other notes
