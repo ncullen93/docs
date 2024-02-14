@@ -26,7 +26,17 @@ x <- mtcars %>% dplyr::filter(hp > 3)
 
 ## Using on ants.dev
 
-abc
+This is a tip:
+
+:::tip
+This is an example of a tip
+:::
+
+And this is a note:
+
+:::note
+This is an example of a note
+:::
 
 ## Using from Python
 

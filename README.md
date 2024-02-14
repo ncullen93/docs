@@ -28,6 +28,9 @@ to follow in order to ensure an ideal user experience on ants.dev.
 - encourage the use of notes (:::note TEXT HERE :::) and tips (:::tip TEXT HERE :::) to
   give the articles a little color pop
 
+- for code blocks, use three backticks and `r` or `python` to denote languages. The languages
+  should not be capitalized.
+
 ## Other notes
 
 - The ants.dev platform pulls from the raw files for the markdown documents, and these
