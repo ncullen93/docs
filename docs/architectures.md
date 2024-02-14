@@ -51,3 +51,9 @@ def
 ## Contributing architectures
 
 ghi
+
+```{r, python}
+x <- 1
+===
+x = 1
+```
