@@ -34,6 +34,46 @@ to follow in order to ensure an ideal user experience on ants.dev.
 - use huggingface.co (e.g., https://huggingface.co/docs/transformers/index) for inspiration
   as to how good package documentation should be.
 
+## Platform-specific markdown
+
+There are certain markdown expressions that only render correctly at ants.dev/docs. Such expressions
+will not cause any errors when viewing the markdown on github, and the expression will still be clear and legible on github, but they will not look as they should.
+
+The following are examples of these expressions:
+
+### Directives
+
+Directives are a kind of alert that draw special attention from the reader by highlighting text
+in color. The note, tip, and warning directives are available for ants.dev docs even though they
+will not render as directives on github. They look like this:
+
+:::note
+this is a note directive
+:::
+
+:::tip
+this is a tip directive
+:::
+
+:::warning
+this is a warning directive
+
+### Code tabs
+
+Code tabs are another expression specific to ants.dev. Code tabs let you write the same code snippet
+in multiple language, but wrapped in a tab where only one snippet is visible at a time. We use these
+to show the same ANTs expression in bash, R, and Python. Code snippets are written like this:
+
+```r,python
+x <- 1
+===
+x = 1
+```
+
+As you can see, the first thing to do is write all the languages to be included in the tabs separated
+by a comma. The next thing to do is to separate the language snippers by three equal signs (`===`). This
+will render correctly in the ants.dev docs.
+
 ## Other notes
 
 - The ants.dev platform pulls from the raw files for the markdown documents, and these
