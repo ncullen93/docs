@@ -48,30 +48,6 @@ This is an example of a warning
 
 def
 
-`bash tabs='npm|yarn'
-npm i @ui-pack/react
---
-yarn add @ui-pack/react
-`
-
-```bash tabs='npm|yarn'
-npm i @ui-pack/react
---
-yarn add @ui-pack/react
-```
-
 ## Contributing architectures
 
 ghi
-
-## title {.tabset}
-
-content above tabbed region.
-
-### tab Social-Media
-
-tab content Social-Media
-
-### tab Contact
-
-tab content Contact
