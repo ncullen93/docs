@@ -24,11 +24,11 @@ x <- mtcars %>% dplyr::filter(hp > 3)
 x <- mtcars %>% dplyr::filter(hp > 3)
 ```
 
-## Using architectures on ants.dev
+## Using on ants.dev
 
 abc
 
-## Using architectures from Python
+## Using from Python
 
 def
 
