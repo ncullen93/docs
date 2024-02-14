@@ -15,3 +15,9 @@ to follow in order to ensure an ideal user experience on ants.dev.
   to allow users to navigate within articles.
 
 - using R markdown (.Rmd) is OK but they need to be converted to markdown to be useable.
+
+## Other notes
+
+- The ants.dev platform pulls from the raw files for the markdown documents, and these
+  can take at least a few minutes to update once you actually commit changes to the repo. Keep
+  that in mind in case you wonder why updates are not automatically showing up on ants.dev.
