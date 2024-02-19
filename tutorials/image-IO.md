@@ -1,4 +1,4 @@
-# Architectures
+# Image reading and writing
 
 Welcome to the documentation for architectures on ants.dev
 
