@@ -1,4 +1,4 @@
-# Modules and Pipelines
+# Pipelines
 
 Welcome to the documentation for collections on ants.dev
 
