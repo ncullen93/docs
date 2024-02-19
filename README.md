@@ -1,4 +1,4 @@
-# Unified Documentation for Advanced Normalization Tools
+# Docs for Advanced Normalization Tools
 
 This repository contains docs for the ANTs ecosystem of packages and the ants.dev platform, as well as tutorials for medical image analysis featuring ANTs that include the same code snippets in bash, R, and Python.
 
