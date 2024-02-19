@@ -6,23 +6,23 @@ This repository contains docs for the ANTs ecosystem of packages and the ants.de
 
 Each folder of the docs/ repo contains docs for different aspects of the ANTs ecosystem.
 
-### architectures/
+### architectures
 
 These are docs for architectures available in ANTsPyNet, ANTsXNet, and on ants.dev.
 
-### developer/
+### developer
 
 These are code-based tutorials for using functionality of the ANTs ecosystem of packages through command-line (C++), R, or Python.
 
-### models/
+### models
 
 These are docs for pre-trained models available in ANTsPyNet, ANTsXNet, and on ants.dev.
 
-### packages/
+### packages
 
 These are docs for packages in the ANTs ecosystem. Ideally, in the future API-level docs for all ANTs ecosystem packages will be compiled and stored here so that they are standardized. For now, it is mostly just general descriptions of each package.
 
-### platform/
+### platform
 
 These are tutorials / docs for how to use specific functionality on the ants.dev platform.
 
