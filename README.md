@@ -10,7 +10,7 @@ Each folder of the docs/ repo contains docs for different aspects of the ANTs ec
 
 These are docs for architectures available in ANTsPyNet, ANTsXNet, and on ants.dev.
 
-### developer_tutorials/
+### developer/
 
 These are code-based tutorials for using functionality of the ANTs ecosystem of packages through command-line (C++), R, or Python.
 
@@ -22,7 +22,7 @@ These are docs for pre-trained models available in ANTsPyNet, ANTsXNet, and on a
 
 These are docs for packages in the ANTs ecosystem. Ideally, in the future API-level docs for all ANTs ecosystem packages will be compiled and stored here so that they are standardized. For now, it is mostly just general descriptions of each package.
 
-### platform_tutorials/
+### platform/
 
 These are tutorials / docs for how to use specific functionality on the ants.dev platform.
 
