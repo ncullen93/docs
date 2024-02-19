@@ -1,9 +1,6 @@
 # Unified Documentation for Advanced Normalization Tools
 
-This repository contains docs for the ANTs ecosystem of packages and the
-ants.dev platform, as well as tutorials for medical image analysis featuring
-ANTs that are language-agnostic (i.e., include the same code snippets in bash,
-R, and Python).
+This repository contains docs for the ANTs ecosystem of packages and the ants.dev platform, as well as tutorials for medical image analysis featuring ANTs that include the same code snippets in bash, R, and Python.
 
 ## Contributing
 
@@ -15,6 +12,4 @@ Images and other media can be stored in the \_assets/ folder.
 
 ## Other notes
 
-- The ants.dev platform pulls from the raw files for the markdown documents, and these
-  can take at least a few minutes to update once you actually commit changes to the repo. Keep
-  that in mind in case you wonder why updates are not automatically showing up on ants.dev.
+- The ants.dev platform pulls from the raw files for the markdown documents, and these can take at least a few minutes to update once you actually commit changes to the repo. Keep that in mind in case you wonder why updates are not automatically showing up on ants.dev.
