@@ -1,4 +1,4 @@
-# Welcome to ants.dev
+# Developing for ants.dev
 
 ### Note: this is a private repo for documentation and sharing private keys / dev tools
 

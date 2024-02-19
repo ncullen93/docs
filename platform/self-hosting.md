@@ -1,4 +1,4 @@
-# Collections
+# Self-hosting the ants.dev platform
 
 Welcome to the documentation for collections on ants.dev
 
