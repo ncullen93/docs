@@ -1,5 +1,0 @@
-
-        ## About this architecture
-        
-        ## Design
-        
