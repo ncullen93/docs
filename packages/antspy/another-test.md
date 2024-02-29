@@ -1,4 +1,4 @@
-# Test
+# Test2
 
 Welcome to the documentation for architectures on ants.dev
 
