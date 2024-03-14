@@ -1,3 +1,3 @@
 # Quickstart
 
-Welcome to the documentation for architectures on ants.dev
+This tutorial gets you up and running with ANTsPy.
